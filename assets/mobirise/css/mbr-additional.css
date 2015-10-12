@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+
+
+
+
+
+#social-buttons2-2 SPAN {
+	font-family: 'Open Sans', sans-serif !important;
+}
+#social-buttons2-2 .mbr-header__text {
+	color: #ffffff;
+}
+#slider-7 H1 {
+	font-family: 'Titillium Web', sans-serif !important;
+	font-size: 30px !important;
+	color: #ffffff !important;
+}
+#slider-7 P {
+	font-family: 'Open Sans', sans-serif !important;
+	font-size: 15px !important;
+	color: #ffffff !important;
+}
+#slider-7 .btn {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+}
+#slider-7 SPAN {
+	font-family: 'Titillium Web', sans-serif !important;
+	font-size: 30px !important;
+	color: #41a85f !important;
+}
+#slider-7 B {
+	color: #f7da64 !important;
+}

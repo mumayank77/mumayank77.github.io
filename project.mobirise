@@ -1,0 +1,133 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "version": "1.9.7"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Hi, I'm Mayank!",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": ""
+      },
+      "components": [
+        {
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-2",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "Hi, I'm Mayank:",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mumayank7\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/mumayank7?_rdr\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-google\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/+MayankMohanUpadhyay/posts\"><i class=\"socicon socicon-google\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mumayank\"><i class=\"socicon socicon-instagram\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-github\" title=\"GitHub\" target=\"_blank\" href=\"https://github.com/mumayank\"><i class=\"socicon socicon-github\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-behance\" title=\"Behance\" target=\"_blank\" href=\"https://drive.google.com/file/d/0B9hM8gTnnIr3aW9XTWFZWFZUNmIyUTZhclY2MmsyTWMxeE5R/view\">E</a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-tumblr\" title=\"Tumblr\" target=\"_blank\" href=\"https://docs.google.com/document/d/1cLwsJ3zLlajzJcufl3LZGL7xIvHVYNF4OY-ApjXfegg/edit\"><font face=\"socicon\"><span style=\"line-height: 29px;\">R</span></font></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-linkedin\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mumayank\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-android\" title=\"Google Play\" target=\"_blank\" href=\"https://play.google.com/store/apps/dev?id=7247579297372904929\"><i class=\"socicon socicon-android\"></i></a>",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Open Sans', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_name": "slider",
+          "_styles": {
+            "H1": {
+              "font-family": "'Titillium Web', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "30px !important",
+              "color": "#ffffff !important"
+            },
+            "P": {
+              "font-family": "'Open Sans', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "15px !important",
+              "color": "#ffffff !important"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "15px"
+            },
+            "SPAN": {
+              "font-family": "'Titillium Web', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "30px !important",
+              "color": "#41a85f !important"
+            },
+            "B": {
+              "color": "#f7da64 !important"
+            }
+          },
+          "_params": {
+            "slides": [
+              {
+                "active": true,
+                "image": "{PROJECT_IMAGES}1-copy960x960-151.jpg",
+                "showTitle": true,
+                "title": "Mayank Mohan Upadhyay",
+                "showText": true,
+                "text": "<b>22 years old, entrepreneur, software engineer at<a href=\"http://ireff.in\" target=\"_blank\" class=\"text-black\"></a><a href=\"http://www.ireff.in\" target=\"_blank\"> </a><a href=\"http://www.ireff.in\" target=\"_blank\">iReff Technologies Pvt. Ltd.</a>, bollywood lyricist, biker, explorer, loves trekking. En route to saving people’s time via Android apps.<br><br><a href=\"https://www.google.com/maps/@13.137307,77.61012,15z\" target=\"_blank\">Living near IAF, Yelahanka, Bengaluru, Karnataka, India - 560063</a></b><br><b>&lt; &lt; &lt; &lt; &lt; &nbsp; &nbsp; swipe to know more &nbsp; &nbsp; &gt; &gt; &gt; &gt; &gt;<a href=\"https://www.google.com/maps/@13.137307,77.61012,15z\" target=\"_blank\"><br></a></b><br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"#top\">Email: mumayank@gmail.com</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"#top\">Phone: +91-9900823386</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}9800x393-168.jpg",
+                "showTitle": true,
+                "title": "Engineer from heart, Coding is art",
+                "showText": true,
+                "text": "<b>Passed out in May 2015 as an Engineer from Bangalore. I love experimenting and as a result I root my new phones on the very first day and try different ROMs. Coding comes naturally to me and I strive to up my level each new day. You may find my apps and projects here:</b>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://play.google.com/store/apps/details?id=in.ireff.android\" target=\"_blank\">iReff</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://play.google.com/store/apps/details?id=com.mumayank.incogv1\" target=\"_blank\">Incognito Chat App</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://gg.gg/refer2a\" target=\"_blank\">IntelligAnt</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://play.google.com/store/apps/details?id=com.wukilabs.ado\" target=\"_blank\">Ado</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\" https://play.google.com/store/apps/details?id=com.mumayank.justxo\" target=\"_blank\">Tic Tac Toe</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\" https://play.google.com/store/apps/details?id=com.mumayank.define\" target=\"_blank\">Define</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://play.google.com/store/apps/details?id=com.mumayank.domain\" target=\"_blank\">Is Domain Available?</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\" https://www.windowsphone.com/en-us/search?q=mother+bird+mumayank\" target=\"_blank\">Mother Bird</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}11800x318-196.jpg",
+                "showTitle": true,
+                "title": "From Friend's Poet to Bollywood Lyricist",
+                "showText": true,
+                "text": "<b>I have been writing poems during my school days. During my 11th standard, I created my own band. Our songs became hit among youngsters and due to popularity, YouTube made us parter and started giving us revenues. <br><br>I was recognized by a director and was offered to write lyrics for a Mumbai-based bollywood movie based on Narendra Modi's Swachha Bharat Abhiyan starring Prem Chopra. My songs were sung by India's first Indian Idol Abhijeet Sawant.</b>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://bit.ly/1JQpHq5\" target=\"_blank\">My Penned Lyrics and Poems</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}111800x345-122.jpg",
+                "showTitle": true,
+                "title": "I Love",
+                "showText": true,
+                "text": "<b>Mom, Puch-Puch, Mangal, Iron-Man among many other things in life :)</b>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://bit.ly/1JQpHq5\" target=\"_blank\">My Penned Lyrics and Poems</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}10800x389-149.jpg",
+                "showTitle": true,
+                "title": "\"Travel brings power and love back in life\" - Rumi",
+                "showText": true,
+                "text": "<b>I haven’t been everywhere, but it’s on my list.</b>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://bit.ly/1JQpHq5\" target=\"_blank\">My Penned Lyrics and Poems</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff"
+          },
+          "_anchor": "slider-7",
+          "articleLayout": false
+        }
+      ]
+    }
+  }
+}
